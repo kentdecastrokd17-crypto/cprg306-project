@@ -1,4 +1,3 @@
-import Image from "next/image";
 "use client";
 
 import { useState, useEffect } from "react";
